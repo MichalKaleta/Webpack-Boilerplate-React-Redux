@@ -11,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/MichalKaleta/react-redux-boilerplate.git"
   },
-  "keywords": [   "react",
-    "redux",
-    "webpack",
-    "boilerplate"
+  "keywords": [   "react", "redux","webpack", "boilerplate"
   ],
   "author": "Michał Kaleta",
   "license": "ISC",
