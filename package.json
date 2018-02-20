@@ -1,11 +1,11 @@
 {
   "name": "react-redux-boilerplate",
   "version": "1.0.0",
-  "description": "Simple boilerplate for React with Redux development with optimal configuration to start",
+  "description": "Simple webpack boilerplate for React with Redux development with optimal configuration to start",
   "main": "index.js",
   "scripts": {
-    "test": "test",
-    "serve": "webpack-dev-server"
+    "serve": "webpack-dev-server",
+   "build" : "webpack"
   },
   "repository": {
     "type": "git",
