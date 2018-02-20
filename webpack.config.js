@@ -8,14 +8,15 @@ module.exports= {
   ],
   
   output: {
-    filename: './bundle.js'
+    filename: './dist/bundle.js'
   },
 
   devtool: 'inline-source-map',
 
   devServer: {
-    contentBase: path.resolve(__dirname, "./")
+    contentBase:  "./"
   },
+
   plugins: [
     new HtmlWebpackPlugin({
       template: 'index.html'
